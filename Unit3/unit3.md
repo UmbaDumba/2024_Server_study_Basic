@@ -3,22 +3,30 @@
 ## ❗️ 강의 수강 여부
 수강한 강의에 체크표시 해주세요~
 
-- [ ] 리눅스
-- [ ] URL,URI
-- [ ] AWS
-- [ ] 프록시 서버
-- [ ] HTTPS
+- [x] 리눅스
+- [x] URL,URI
+- [x] AWS
+- [x] 프록시 서버
+- [x] HTTPS
 
 <br>
 
 ## ❗️ 3주차 과제
 1. AWS EC2 인스턴스 생성
    - 수행한 화면 혹은 내용을 작성해 주세요
+     ![image](https://github.com/UmbaDumba/2024_Server_study_Basic/assets/88480816/012ff82f-5df2-4a83-89d0-3639bfac80cf)
+
+     ![image](https://github.com/UmbaDumba/2024_Server_study_Basic/assets/88480816/14aa3254-8002-4b9f-a1ca-b9de3d289fc1)
+
 
 <br/>
 
 2. ssh 사용하여 ubuntu 인스턴스 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
+     참고한글 : https://tyoon9781.tistory.com/entry/aws-ec2-vscode-setting-2023
+     ![image](https://github.com/UmbaDumba/2024_Server_study_Basic/assets/88480816/f4d5af70-b174-42f6-b600-4efe54c43828)
+      ![image](https://github.com/UmbaDumba/2024_Server_study_Basic/assets/88480816/44d260f7-a3f1-4839-84d6-ec9dc71f5dbe)
+
 
 <br/>
 
