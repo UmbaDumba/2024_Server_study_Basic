@@ -41,12 +41,16 @@
 4. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
    - 수행한 화면 혹은 내용을 작성해 주세요
      참고한글 : https://jindevelopetravel0919.tistory.com/189
+      ![image](https://github.com/UmbaDumba/2024_Server_study_Basic/assets/88480816/a7a8968a-61de-4768-901c-642a8722bc08)
+      ![image](https://github.com/UmbaDumba/2024_Server_study_Basic/assets/88480816/aad7892e-757f-4422-b095-351ccf2c1d2d)
 
 <br/>
 
 5. Redirection 적용 (IP to Domain)
    - 수행한 화면 혹은 내용을 작성해 주세요
      참고한글 : https://velog.io/@peanut_/Domain-Redirection-%EC%A0%81%EC%9A%A9-IP-to-Domain
-     
+     ![image](https://github.com/UmbaDumba/2024_Server_study_Basic/assets/88480816/08562427-a9cc-44c3-8f09-947f6b8b363e)
+      ![image](https://github.com/UmbaDumba/2024_Server_study_Basic/assets/88480816/14404a21-e5fa-4056-92e1-bc35b20038a5)
+      IP주소로 접속해도 umbadumba.shop으로 바뀜
 
 <br/>
