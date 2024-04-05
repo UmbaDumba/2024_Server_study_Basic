@@ -32,15 +32,21 @@
 
 3. Nginx 패키지 설치 후 http 외부 접속
    - 수행한 화면 혹은 내용을 작성해 주세요
+     ![image](https://github.com/UmbaDumba/2024_Server_study_Basic/assets/88480816/5e45acc1-c1a6-422f-b3c4-0fe263a4eada)
+      ![image](https://github.com/UmbaDumba/2024_Server_study_Basic/assets/88480816/e839ad87-94a0-4587-8f3d-f0e5bbe65482)
+
 
 <br/>
 
 4. 가비아 or 후이즈에서 domain 연결 (.shop 도메인)
    - 수행한 화면 혹은 내용을 작성해 주세요
+     참고한글 : https://jindevelopetravel0919.tistory.com/189
 
 <br/>
 
 5. Redirection 적용 (IP to Domain)
    - 수행한 화면 혹은 내용을 작성해 주세요
+     참고한글 : https://velog.io/@peanut_/Domain-Redirection-%EC%A0%81%EC%9A%A9-IP-to-Domain
+     
 
 <br/>
